@@ -3,7 +3,7 @@
 
 title: "SmartWitness: A Proactive Software Transparency System using Smart Contracts"
 subtitle: ""
-summary: "Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure"
+summary: "Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure (``Best Paper Award``)"
 authors: [Juan Guarnizo, Bithin Alangot, Pawel Szalachowski]
 tags: []
 categories: []
